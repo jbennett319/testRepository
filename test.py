@@ -4,3 +4,6 @@ def foo():
     print("hellow world")
 
 foo()
+
+def sussy():
+    print("you are sus")
