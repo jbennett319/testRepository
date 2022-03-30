@@ -5,5 +5,5 @@ def foo():
 
 foo()
 
-def sussy():
+def newFunction():
     print("you are sus")
