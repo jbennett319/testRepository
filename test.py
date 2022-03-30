@@ -7,3 +7,5 @@ foo()
 
 def newFunction():
     print("you are sus")
+
+# this is a new line
